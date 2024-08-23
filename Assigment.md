@@ -319,6 +319,6 @@ SELECT product_name
 FROM products 
 WHERE category = 'Furniture';
 ```
-
+...........
 
 
